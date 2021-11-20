@@ -1,1 +1,17 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+** I have knowledge on**(in web technology)
+* _HTML_
+* _CSS_
+* _Javascript_
+* _php_
+* _sql_   
+
+**programming languages**
+*_C_
+_C++_
+_Java_
+
+**achievements**
+*_Received a certificate for completing **HTML,CSS essential training** courses._
+*Completed **responsive web design course.**_
+*_Done a mini project on **database management system.**_
+*_Know how to work on squarespace._
