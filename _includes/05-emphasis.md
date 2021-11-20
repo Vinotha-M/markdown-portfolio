@@ -1,11 +1,11 @@
-** I have knowledge on**(in web technology)
+**I have knowledge on**(in web technology)
 * _HTML_
 * _CSS_
 * _Javascript_
 * _php_
 * _sql_   
 
-**programming languages**
+**Programming languages**
 * _C_
 * _C++_
 * _Java_
